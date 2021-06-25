@@ -1,2 +1,17 @@
-Website under construction!<br>
-To be updated soon!
+<style>
+    li::marker{
+        font-size: 1.5em;
+    }
+</style>
+
+<div>
+    <ol>
+        <li>
+            <div>
+                <h2>Reinforcement Learning Robot</h2>
+                Developing a robot by applying Reinforcement Learning.<br>
+                The robot would be able to navigate it's way through an obstacle course.
+            </div>
+        </li>
+    </ol>
+</div>
