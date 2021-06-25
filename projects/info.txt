@@ -10,7 +10,8 @@
             <div>
                 <h2>Reinforcement Learning Robot</h2>
                 Developing a robot by applying Reinforcement Learning.<br>
-                The robot would be able to navigate it's way through an obstacle course.
+                The robot would be able to navigate it's way through an obstacle course.<br>
+                <img src="https://www.kdnuggets.com/images/reinforcement-learning-fig1-700.jpg" width="450" height="250">
             </div>
         </li>
     </ol>
